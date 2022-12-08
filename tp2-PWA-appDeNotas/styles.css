@@ -1,0 +1,8 @@
+.collection li img {
+    width: 40px;
+    height: 40px;
+    float: right;
+    cursor: pointer;
+    margin-left: 3rem;
+}
+
